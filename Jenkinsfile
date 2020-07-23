@@ -13,7 +13,7 @@ pipeline {
     }
 
     environment {
-      PATH="/var/lib/jenkins/miniconda3/bin:$PATH"
+      PATH="C:\ProgramData\Miniconda3\bin:$PATH"
     }
 
     stages {
