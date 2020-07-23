@@ -14,6 +14,7 @@ pipeline {
 
     environment {
       PATH="C:\\ProgramData\\Miniconda3\\Scripts:$PATH"
+      PATH="C:\\cygwin64\\usr\\local\\bin:$PATH"
     }
 
     stages {
